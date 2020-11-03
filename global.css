@@ -150,8 +150,7 @@ body.darkmode {
 	font-family: Open Sans Hebrew;
 }
 
-.pollresultsblock {
-    padding-right: 10px;
+.darkmode .pollresultsblock {
     background: #070707;
 }
 
