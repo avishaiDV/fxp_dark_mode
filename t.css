@@ -1,0 +1,168 @@
+body.darkmode {
+	background-color: #000000;
+}
+
+.darkmode #fxp2020_sticky_option {
+	background-color: #000000;
+	opacity: 100%;
+	box-shadow: 2px 2px 10px #3d3d3d;
+}
+
+.darkmode .toplogin.toplogedin {
+	background-color: black;
+	box-shadow: 2px 2px 10px #3d3d3d;
+	border-radius: 25px;
+	height: 27px;
+
+}
+
+.darkmode .divmainfav {
+	background-image: url("https://wallpaperaccess.com/full/2413551.jpg");
+	border-radius: 35px;
+
+}
+
+.darkmode .toplogin .popupbody {
+	box-shadow: 1px 1px 10px #3b3b3b;
+
+}
+
+.darkmode .hide_like {
+	background-color: black;
+
+}
+
+.darkmode .hider {
+	background-color: black;
+	border-radius: 10px;
+
+}
+
+.darkmode .cats {
+	border-radius: 30px 30px 15px 15px;
+	background: #09090982;
+}
+
+.darkmode .ct {
+	border-radius: 30px 30px 0px 0px;
+}
+
+.darkmode .ftitle {
+	background: black;
+	border: 1px solid #000000;
+}
+
+.darkmode .cat_title {
+	color: #cccccc;
+	text-shadow: 1px 1px 3px #595959;
+}
+
+.darkmode .big-image-img {
+	border-radius: 30px;
+	box-shadow: 2px 2px 5px #3d3d3d;
+}
+
+.darkmode .img_sikc {
+	border-radius: 15px;
+	box-shadow: 2px 2px 5px #3d3d3d;
+}
+
+.darkmode .big-image-class .first {
+	border-radius: 15px;
+	box-shadow: 2px 2px 2px #3d3d3d;
+}
+
+.darkmode .ftitle {
+	background: transparent;
+}
+
+.darkmode .first {
+	background: black;
+}
+
+.newcontent_textcontrol {
+	text-shadow: 2px 2px 5px black;
+	background-color: #1c1c1c;
+}
+
+.darkmode #breadcrumb {
+	background: linear-gradient(to right, #000000, #000000)
+}
+
+.darkmode .visible_sh {
+	background-color: black;
+
+}
+
+.darkmode .teammen {
+	background-color: #121212;
+
+}
+
+.darkmode .newcom {
+	background-color: #121212;
+	box-shadow: 2px 2px 5px #3d3d3d;
+
+}
+
+.darkmode .manageThreadPP {
+	background: linear-gradient(#000000 20%, #000000 60%);
+	border-radius: 40px;
+	width: 2em;
+	height: 2em;
+}
+
+.darkmode .cke_skin_kama .cke_toolgroup {
+	background: linear-gradient(to top, #ffffff, #7f878a);
+}
+
+body.darkmode {
+	background-image: url("https://wallpaperaccess.com/full/2109.jpg");
+}
+
+.darkmode .divmainfave {
+	background-color: #32323200;
+}
+
+.darkmode .newcom {
+	background-color: #121212;
+	box-shadow: 2px 2px 5px #3d3d3d;
+
+}
+
+.darkmode #breadcrumb {
+	background: transparent;
+
+}
+
+.darkmode .toplogin .popupbody {
+	box-shadow: 1px 1px 10px #3b3b3b;
+
+}
+
+.darkmode .cke_skin_kama .cke_toolgroup {
+	background: linear-gradient(to top, #ffffff, #7f878a);
+}
+
+.darkmode .restoretext {
+	color: black;
+	font-family: Open Sans Hebrew;
+	font-weight: bold;
+}
+
+.darkmode .tcat-fr {
+	font: bold 13px Open Sans Hebrew;
+	background: #0e0e0e;
+}
+
+.darkmode #breadcrumb {
+	background: linear-gradient(to right, #000000, #000000)
+}
+
+#input-textarea {
+	border-radius: 40px;
+}
+
+.talktext p {
+	font-family: Open Sans Hebrew;
+}
