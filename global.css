@@ -149,7 +149,7 @@ body.darkmode {
 .talktext p {
 	font-family: Open Sans Hebrew;
 }
-//polls
-.darkmode .pollresultsblock {
+
+.darkmode .pollresultsblock{
 	background: #070707;
 }
