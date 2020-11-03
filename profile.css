@@ -1,0 +1,13 @@
+body.darkmode {
+	background-image: url("https://wallpaperaccess.com/full/2109.jpg");
+}
+.darkmode .divmainfave {
+	background-color: #32323200;
+}
+.darkmode #breadcrumb {
+	background: transparent;
+
+}
+.darkmode .cke_skin_kama .cke_toolgroup {
+	background: linear-gradient(to top, #ffffff, #7f878a);
+}
