@@ -156,3 +156,11 @@ body.darkmode {
     border-bottom: 1px solid #000;
     background: #1f1f1f;
 }
+
+.darkmode .newnoti_link {
+    background-color: #383838!important;
+}
+
+.darkmode li.noti_fi {
+    border-radius: 60px;
+}
