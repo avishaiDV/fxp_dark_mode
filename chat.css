@@ -6,7 +6,7 @@
 	border: 18px solid;
 }
 
-.talktext img {
+.talktext img, .darkmode .message-content .menu .new-message-btn, .darkmode.message-content .menu .new-message-btn {
 	border-radius: 20px;
 }
 
