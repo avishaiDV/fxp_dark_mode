@@ -14,6 +14,6 @@
 	border-radius: 40px;
 }
 
-.talktext p, .message-content .pm-list .pm .info-1 .date, .message-content .pm-list .pm .info-2 .subject {
+.talktext p, .message-content .pm-list .pm .info-1 .date, .message-content .pm-list .pm .info-2 .subject, .darkmode .usermarkup {
 	font-family: Open Sans Hebrew;
 }
