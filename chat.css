@@ -2,6 +2,9 @@
   border-radius: 30px;
 }
 
+.darkmode .tri-right.left-top:after, .darkmode .tri-right.right-top:after{
+  border: 15px solid;
+}
 
 #input-textarea {
 	border-radius: 40px;
