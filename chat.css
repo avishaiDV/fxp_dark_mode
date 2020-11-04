@@ -20,7 +20,3 @@
 .menu .profile .user-name > div > div, .mf, .talktext p, .message-content .pm-list .pm .info-1 .date, .message-content .pm-list .pm .info-2 .subject, .darkmode .usermarkup {
 	font-family: Open Sans Hebrew;
 }
-
-.darkmode body.darkmode > .menu{
-	background-color: black;
-}
