@@ -3,7 +3,7 @@
 }
 
 .darkmode .tri-right.left-top:after{
-  border: 0px;
+  border: 15px;
 }
 
 .darkmode .tri-right.right-top:after{
@@ -17,5 +17,3 @@
 .talktext p {
 	font-family: Open Sans Hebrew;
 }
-
-
