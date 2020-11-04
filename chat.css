@@ -10,13 +10,10 @@
 	border-radius: 20px;
 }
 
-.message-content .pm-list .pm .info-2 .subject{
-	font-family: Open Sans Hebrew;
-}
 #input-textarea {
 	border-radius: 40px;
 }
 
-.talktext p {
+.talktext p, .message-content .pm-list .pm .info-1 .date, .message-content .pm-list .pm .info-2 .subject {
 	font-family: Open Sans Hebrew;
 }
