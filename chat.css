@@ -6,7 +6,10 @@
 	border: 18px solid;
 }
 
-.talktext img, .darkmode .message-content .menu .new-message-btn, .darkmode.message-content .menu .new-message-btn {
+.darkmode .message-content .menu .new-message-btn{
+	text-shadow: 2px 2px 3px white;
+}
+.talktext img, .darkmode.message-content .menu .new-message-btn {
 	border-radius: 20px;
 }
 
