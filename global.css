@@ -1,8 +1,8 @@
-//bg color
+
 body.darkmode {
 	background-color: black;
 }
-//top bar
+
 .darkmode #fxp2020_sticky_option {
 	background-color: #000000;
 	opacity: 100%;
@@ -142,12 +142,11 @@ body.darkmode {
 .darkmode #breadcrumb {
 	background: linear-gradient(to right, #000000, #000000)
 }
-//polls
+
 .darkmode .pollresultsblock{
 	background: #070707;
 }
-//typing text color
+
 .darkmode .noticeshow .title{
 	color: white;
 }
-
