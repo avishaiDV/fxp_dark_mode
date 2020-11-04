@@ -20,3 +20,7 @@
 .menu .profile .user-name > div > div, .mf, .talktext p, .message-content .pm-list .pm .info-1 .date, .message-content .pm-list .pm .info-2 .subject, .darkmode .usermarkup {
 	font-family: Open Sans Hebrew;
 }
+
+.chat-text-input .send-element .picture label img{
+	content: url("https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/slr-camera-icon-18-256.png");
+}
