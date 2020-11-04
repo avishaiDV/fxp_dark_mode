@@ -142,14 +142,6 @@ body.darkmode {
 	background: linear-gradient(to right, #000000, #000000)
 }
 
-#input-textarea {
-	border-radius: 40px;
-}
-
-.talktext p {
-	font-family: Open Sans Hebrew;
-}
-
 .darkmode .pollresultsblock{
 	background: #070707;
 }
