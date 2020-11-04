@@ -1,0 +1,21 @@
+.darkmode .talk-bubble{
+  border-radius: 30px;
+}
+
+.darkmode .tri-right.left-top:after{
+  border: 0px;
+}
+
+.darkmode .tri-right.right-top:after{
+   border: 0px;
+}
+
+#input-textarea {
+	border-radius: 40px;
+}
+
+.talktext p {
+	font-family: Open Sans Hebrew;
+}
+
+
