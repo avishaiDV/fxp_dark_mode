@@ -3,6 +3,10 @@ body.darkmode {
 	background-color: black;
 }
 
+body.darkmode a {
+    color: #ffffff;
+}
+
 .darkmode #fxp2020_sticky_option {
 	background-color: #000000;
 	opacity: 100%;
