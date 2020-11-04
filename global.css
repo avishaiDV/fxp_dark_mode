@@ -150,3 +150,9 @@ body.darkmode {
 .darkmode .noticeshow .title{
 	color: white;
 }
+
+.darkmode .li-user-tag {
+    font-family: 'open sans hebrew';
+    border-bottom: 1px solid #000;
+    background: #1f1f1f;
+}
