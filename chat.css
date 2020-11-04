@@ -1,11 +1,14 @@
 .darkmode .talk-bubble{
-  border-radius: 30px;
+	border-radius: 30px;
 }
 
 .darkmode .tri-right.left-top:after, .darkmode .tri-right.right-top:after{
-  border: 18px solid;
+	border: 18px solid;
 }
 
+.talktext img {
+	border-radius: 20px;
+}
 #input-textarea {
 	border-radius: 40px;
 }
