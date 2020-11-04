@@ -2,14 +2,6 @@
   border-radius: 30px;
 }
 
-.darkmode .tri-right.left-top:after{
-  border: 15px;
-}
-
-.darkmode .tri-right.right-top:after{
-   border: 0px;
-}
-
 #input-textarea {
 	border-radius: 40px;
 }
