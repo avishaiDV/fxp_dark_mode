@@ -9,7 +9,7 @@
 .darkmode .message-content .menu .new-message-btn{
 	text-shadow: 2px 2px 3px white;
 }
-.talktext img, .darkmode .chat-text-input .chat-textarea, .darkmode.message-content .menu .new-message-btn, .darkmode .message-content .search-message .input-message, .darkmode .message-content .menu .menu-settings .settings-list, .darkmode.message-content .menu .menu-settings .settings-list, .darkmode.message-content .search-message .input-message { {
+.talk-bubble .talktext img, .darkmode .chat-text-input .chat-textarea, .darkmode .chat-text-input .chat-textarea, .darkmode.message-content .menu .new-message-btn, .darkmode .message-content .search-message .input-message, .darkmode .message-content .menu .menu-settings .settings-list, .darkmode.message-content .menu .menu-settings .settings-list, .darkmode.message-content .search-message .input-message { {
 	border-radius: 20px;
 }
 
@@ -17,10 +17,14 @@
 	border-radius: 40px;
 }
 
-.menu .profile .user-name > div > div, .mf, .talktext p, .message-content .pm-list .pm .info-1 .date, .message-content .pm-list .pm .info-2 .subject, .darkmode .usermarkup {
+.menu .profile .user-name > div > div, .mf, .talktext p, .chat-textarea-write, .talktext, .menu .profile .user-name > a, .mf, .menu .profile .user-name > div > div, .message-content .pm-list .pm .info-1 .user-name, .message-content .pm-list .pm .info-2 .subject, .message-content .pm-list .pm .info-1 .date, .message-content .pm-list .pm .info-2 .subject, .darkmode .usermarkup {
 	font-family: Open Sans Hebrew;
 }
 
 .chat-text-input .send-element .picture label img{
 	content: url(https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/slr-camera-icon-18-256.png);
+}
+
+.darkmode * {
+	color: #ffffff;
 }
