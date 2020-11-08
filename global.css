@@ -172,3 +172,9 @@ body.darkmode a {
 .darkmode li.noti_fi {
     border-radius: 60px;
 }
+
+.darkmode .flo {
+	background-color: black;
+	border: 1px solid black;
+	
+}
