@@ -9,7 +9,7 @@
 .darkmode .message-content .menu .new-message-btn{
 	text-shadow: 2px 2px 3px white;
 }
-.talktext img, .darkmode .chat-text-input .chat-textarea, .darkmode.message-content .menu .new-message-btn, .darkmode .message-content .search-message .input-message, .darkmode.message-content .search-message .input-message { {
+.talktext img, .darkmode .chat-text-input .chat-textarea, .darkmode.message-content .menu .new-message-btn, .darkmode .message-content .search-message .input-message, .darkmode .message-content .menu .menu-settings .settings-list, .darkmode.message-content .menu .menu-settings .settings-list, .darkmode.message-content .search-message .input-message { {
 	border-radius: 20px;
 }
 
