@@ -28,3 +28,7 @@
 .darkmode {
 	color: #ffffff;
 }
+
+.darkmode .message-content .menu .new-message-btn, .darkmode.message-content .menu .new-message-btn {
+	boreder-radius: 20px
+}
