@@ -89,6 +89,10 @@ body.darkmode a {
 	text-shadow: 2px 2px 5px black;
 	background-color: #1c1c1c;
 }
+.newcontent_textcontrol:hover {
+	text-shadow: 2px 2px 5px black;
+	background-color: #0c0c0c;
+}
 
 .darkmode #breadcrumb {
 	background: linear-gradient(to right, #000000, #000000)
