@@ -183,6 +183,6 @@ body.darkmode a {
 	background: black;
 }
 
-.darkmode #stickies .threadbit, .darkmode .threadbit {
+.darkmode .threadbit .nonsticky {
 	background: black;
 }
