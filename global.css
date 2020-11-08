@@ -178,3 +178,11 @@ body.darkmode a {
 	border: 1px solid black;
 	
 }
+
+.darkmode .threadbit .sticky {
+	background: black;
+}
+
+.darkmode #stickies .threadbit, .darkmode .threadbit {
+	background: black;
+}
