@@ -85,11 +85,11 @@ body.darkmode a {
 	background: black;
 }
 
-.newcontent_textcontrol {
+.darkmode .newcontent_textcontrol {
 	text-shadow: 2px 2px 5px black;
 	background-color: #1c1c1c;
 }
-.newcontent_textcontrol:hover {
+.darkmode .newcontent_textcontrol:hover {
 	text-shadow: 2px 2px 5px black;
 	background-color: #0c0c0c;
 }
