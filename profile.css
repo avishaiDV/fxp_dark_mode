@@ -11,7 +11,7 @@ body.darkmode {
 .darkmode .cke_skin_kama .cke_toolgroup {
 	background: linear-gradient(to top, #ffffff, #7f878a);
 }
-.darkmode body.content {
+.darkmode body,body.content {
 	color: white;
 	background-color: #383838;
 }
