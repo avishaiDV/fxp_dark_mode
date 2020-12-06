@@ -16,6 +16,6 @@ body.darkmode {
 	background-color: #383838;
 }
 
-.darkmode .loading, .darkmode #sidebar_container.member_summary {
+.darkmode .loading, .darkmode #sidebar_container.member_summary, .darkmode .avatar .avatarcontainer {
 	border-radius: 20px;
 }
