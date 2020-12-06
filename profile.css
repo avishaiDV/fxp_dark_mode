@@ -19,3 +19,7 @@ body.darkmode {
 .darkmode .loading, .darkmode #sidebar_container.member_summary, .darkmode .avatar .avatarcontainer {
 	border-radius: 20px;
 }
+
+.darkmode #sidebar_container .userprof_content .blockrow {
+	border-radius: 15px;
+}
