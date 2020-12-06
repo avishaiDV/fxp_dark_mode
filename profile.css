@@ -23,3 +23,13 @@ body.darkmode {
 .darkmode #sidebar_container .userprof_content .blockrow {
 	border-radius: 15px;
 }
+
+.darkmode .modal {
+	border-radius: 20px;
+	background-color: rgba(0, 0, 0, 0);
+}
+
+.darkmode .modal-body .cropper img {
+	border-top-right-radius: 40px;
+	border-top-left-radius: 40px;
+}
