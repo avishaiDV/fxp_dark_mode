@@ -15,3 +15,7 @@ body.darkmode {
 	color: white;
 	background-color: #383838;
 }
+
+.darkmode .loading, .darkmode #sidebar_container.member_summary {
+	border-radius: 20px;
+}
