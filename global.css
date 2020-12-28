@@ -199,3 +199,9 @@ body.darkmode a {
 	background: linear-gradient(to right, #000, #2b2b2b);
 	border-radius: 15px;
 }
+
+.darknode .user-picture-holder img {
+	position: relative;
+	top: 15px;
+	right: 4px;
+}
