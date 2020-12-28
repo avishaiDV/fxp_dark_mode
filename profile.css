@@ -37,3 +37,8 @@ body.darkmode {
 	border-top-right-radius: 40px;
 	border-top-left-radius: 40px;
 }
+
+body, body.content {
+	background-color: #19191b;
+	color: #fff;
+}
