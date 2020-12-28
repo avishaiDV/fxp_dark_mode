@@ -190,3 +190,7 @@ body.darkmode a {
 .darkmode .flo modore padispeci {
 	background: grey;
 }
+
+.darkmode #stickies:hover .threadbit:hover, .darkmode .threadbit:hover {
+	border-radius: 20px;
+}
