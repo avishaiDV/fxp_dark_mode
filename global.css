@@ -194,3 +194,8 @@ body.darkmode a {
 .darkmode #stickies:hover .threadbit:hover, .darkmode .threadbit:hover {
 	border-radius: 20px;
 }
+
+.darkmode #breadcrumb {
+	background: linear-gradient(to right, #000, #2b2b2b);
+	border-radius: 15px;
+}
