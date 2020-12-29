@@ -33,3 +33,8 @@
 .darkmode .message-content .menu .new-message-btn, .darkmode.message-content .menu .new-message-btn {
 	border-radius: 20px
 }
+
+/*Change the background image at the start of entering private chats | שינוי תמונת הרקע בכניסה לשיחות הפרטיות*/
+.darkmode element {
+	background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9e74a297733973.5ecd30811d6ed.jpg");
+}
