@@ -38,3 +38,30 @@
 .darkmode element {
 	background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9e74a297733973.5ecd30811d6ed.jpg");
 }
+
+@-webkit-keyframes slide-top {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  100% {
+    -webkit-transform: translateY(-100px);
+            transform: translateY(-100px);
+  }
+}
+	
+@keyframes slide-top {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  100% {
+    -webkit-transform: translateY(-100px);
+            transform: translateY(-100px);
+  }
+}
+
+.darkmode .talk-bubble {
+	-webkit-animation: slide-top 0.5s cubic-bezier(0.785, 0.135, 0.150, 0.860) both;
+	        animation: slide-top 0.5s cubic-bezier(0.785, 0.135, 0.150, 0.860) both;
+}
