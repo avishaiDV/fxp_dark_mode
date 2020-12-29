@@ -1,4 +1,5 @@
-.darkmode .talk-bubble{
+/*Rounding corners of the talk bubble | מעגל פינות לבועות הטקסט*/
+.darkmode .talk-bubble { 
 	border-radius: 30px;
 }
 
