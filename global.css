@@ -209,3 +209,15 @@ body.darkmode a {
 .darkmode #stickies:hover .threadbit:hover, .darkmode .threadbit:hover {
 	border-radius: 20px;
 }
+
+.darkmode .pagination span a{
+	background-color: #000;
+	border-color: #000;
+	color: #fff;
+	border-radius: 7px;
+}
+.darkmode .pagination span a:hover {
+	border-color: #fff;
+	color: #fff;
+	background: #313131
+}
