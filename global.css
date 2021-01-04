@@ -210,6 +210,7 @@ body.darkmode a {
 	border-radius: 20px;
 }
 
+// מספרי העמודים של הפורומים: הורדת קווי מיתאר, עיגולם, ושינוי צבע הרקע
 .darkmode .pagination span a{
 	background-color: #000;
 	border-color: #000;
